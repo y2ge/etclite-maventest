@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test etclite">
+
+	<test name="Test etclite test">
+	
+		<classes>
+ 			<class name="org.etclite.maventest.etclite_maventest" />
+ 		</classes>
+		
+	</test>
+
+</suite>

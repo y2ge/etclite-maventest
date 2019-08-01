@@ -7,9 +7,9 @@ public class etclite_maventest {
   @Test
   public void sum() {
 	  System.out.println("Sum Test");
-	  int a = 10;
+	  int a = 20;
 	  int b = 20;
-	  Assert.assertEquals(30, a+b);
+	  Assert.assertEquals(40, a+b);
 	  }
   @Test
   public void sub() {
