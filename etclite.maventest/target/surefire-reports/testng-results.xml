@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Test etclite" duration-ms="66" started-at="2019-08-01T13:24:48Z" finished-at="2019-08-01T13:24:48Z">
+  <suite name="Test etclite" duration-ms="94" started-at="2019-08-02T01:06:31Z" finished-at="2019-08-02T01:06:32Z">
     <groups>
     </groups>
-    <test name="Test etclite test" duration-ms="66" started-at="2019-08-01T13:24:48Z" finished-at="2019-08-01T13:24:48Z">
+    <test name="Test etclite test" duration-ms="94" started-at="2019-08-02T01:06:31Z" finished-at="2019-08-02T01:06:32Z">
       <class name="org.etclite.maventest.etclite_maventest">
-        <test-method status="PASS" signature="div()[pri:0, instance:org.etclite.maventest.etclite_maventest@35f983a6]" name="div" duration-ms="31" started-at="2019-08-01T09:24:48Z" finished-at="2019-08-01T09:24:48Z">
+        <test-method status="PASS" signature="div()[pri:0, instance:org.etclite.maventest.etclite_maventest@35f983a6]" name="div" duration-ms="50" started-at="2019-08-01T21:06:31Z" finished-at="2019-08-01T21:06:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- div -->
-        <test-method status="PASS" signature="mul()[pri:0, instance:org.etclite.maventest.etclite_maventest@35f983a6]" name="mul" duration-ms="0" started-at="2019-08-01T09:24:48Z" finished-at="2019-08-01T09:24:48Z">
+        <test-method status="PASS" signature="mul()[pri:0, instance:org.etclite.maventest.etclite_maventest@35f983a6]" name="mul" duration-ms="0" started-at="2019-08-01T21:06:31Z" finished-at="2019-08-01T21:06:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mul -->
-        <test-method status="PASS" signature="sub()[pri:0, instance:org.etclite.maventest.etclite_maventest@35f983a6]" name="sub" duration-ms="1" started-at="2019-08-01T09:24:48Z" finished-at="2019-08-01T09:24:48Z">
+        <test-method status="PASS" signature="sub()[pri:0, instance:org.etclite.maventest.etclite_maventest@35f983a6]" name="sub" duration-ms="0" started-at="2019-08-01T21:06:31Z" finished-at="2019-08-01T21:06:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sub -->
-        <test-method status="PASS" signature="sum()[pri:0, instance:org.etclite.maventest.etclite_maventest@35f983a6]" name="sum" duration-ms="1" started-at="2019-08-01T09:24:48Z" finished-at="2019-08-01T09:24:48Z">
+        <test-method status="PASS" signature="sum()[pri:0, instance:org.etclite.maventest.etclite_maventest@35f983a6]" name="sum" duration-ms="1" started-at="2019-08-01T21:06:31Z" finished-at="2019-08-01T21:06:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sum -->
